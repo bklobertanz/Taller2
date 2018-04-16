@@ -1,0 +1,44 @@
+body{
+
+	font-size: 16px;
+}
+.red{
+
+	color:red;
+	font-size: 18px; 
+}
+.blue{
+
+	color:blue;
+	font-size: 24px; 
+}
+.green{
+
+	color:green;
+	font-size: 36px; 
+}
+.brown{
+
+	color:brown;
+	font-size: 48px; 
+}
+.gray{
+
+	color:gray;
+	font-size: 64px; 
+}
+.pink{
+
+	color:pink;
+	font-size: 128px; 
+}
+.yellow{
+
+	color:yellow;
+	font-size: 256px; 
+}
+.black{
+
+	color:black;
+	font-size: 16px; 
+}
